@@ -19,5 +19,4 @@ Dataset: https://data.world/elenadata/vox-articles
 You can look for detailed explanation with graphs at - [news.ipynb](news.ipynb)  
 You can also run the python file using -  `python3 news.py`
 
-## Credits
-[Dr. Elena Zeleva](https://www.cs.uic.edu/~elena/)
+
